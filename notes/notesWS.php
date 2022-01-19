@@ -42,6 +42,14 @@ function displayStars(){
     document.body.style.fontFamily = "cmu-serif-roman";
   }
 }
+var p = document.getElementsByTagName("p");
 
+    for (i = 1; i < p.length; i += 1) {
+        var div = document.createElement("div");
+        div.classList.add('balises');
+        p[i].appendChild(div);
+        div.innerHTML = i-1;
+        p[i].insertBefore(div, p[i].firstChild);
+    }
 </script>
 </html>

@@ -45,6 +45,8 @@ Pour lui, les autres voies possibles sont celle qui laissent place au hasard, à
 
 > "L’outil numérique serait à envisager comme un champ de possibles qui ne serait pas autoritaire et normé (deux notions habituellement liées au pouvoir)."
 
+[$notesBernardStiegler-JacquesEllul.php](../notes/notesBS.php)
+
 L'open source, avec la forme d'horizontalité qu'il induit, tend en effet plutôt à être du côté de l'usager. Sa conception ouverte est totalement différente de celle du logiciel propriétaire, puisqu'elle permet en quelque sorte le partage du "pouvoir" aux membres de la communauté.
 
 > "Il y a ici une forme de valorisation qui ne passe pas par des logiques de profit, une économie de la connaissance qui fait de l’usager un contributeur (Bernard Stiegler)."
@@ -73,3 +75,10 @@ Ce n'est pas pour autant que l'apprentissage de la programmation est une tâche 
 L’accessibilité de la programmation à toutes et tous est un enjeu majeur dans un objectif de désopacification des outils numériques. John Maeda l'avait déjà bien saisit lorsqu'il a conçu Design By Numbers, qui donna suite à Processing. Des environnements comme GéoTortue, ou Sonic Pi qui simplifient énormément les langages vont également dans cette direction.
 Les forums, les tutoriels, la mise en place de nouveaux outils permettant le partage des ressources autour de la programmation sont essentiels.
 ###### (La culture DIY, mais aussi la réappropriation par le marketing: Anthony Masure, «Makers : Fable labs ? », Strabic.fr, janvier 2013, https://www.anthonymasure.com/articles/2013-05-makers-fables-labs-chris-anderson)
+
+La programmation est aussi un objet d'étude contemporain. Des recherches comme l'esthétique computationnelle de Winnie soon et Geoff Cox croisent théorie de la culture computationnelle, l’esthétique et les études culturelles, avec un intérêt particulier dans les relations de pouvoir qui sont méconnues comme les inégalitées et les injustices relatives à la classe, le genre, la sexualité, autant que la race et les restes de l’héritage colonial.
+
+> La programmation est un moyen de comprendre la société puisque c’est un objet culturel- W.Benjamin.
+g
+
+<span class="en-cours">Dans le 1er rendu, je me suis plutôt concentrée sur la critique des logiciels hégémoniques et de l'importance d'autres moyens de créations. Mais il y'a aussi le travail de Winnie Soon qui m'intéresse beaucoup et que j'aimerais étudier plus longtemps, à l'intersection entre les software studies et les études culturelles/sociales, qui questionne les relations de pouvoirs dans le code. </span>

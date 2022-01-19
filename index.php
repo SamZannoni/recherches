@@ -30,9 +30,8 @@ $extra = new ParsedownExtra();
   </div>
 
   <div id="credits"> <h3>crédits:</h3>
-   Typographies - Computer Modern, Donald E.Knuth // Les paillettes, collection de glyphes inclusifs par Victoire Bondoux & Roxanne Maillet //# Markdown Parser, <a href="https://github.com/erusev/parsedown-extra"> Parsedown Extra </a> (c) <a href="http://erusev.com">Emanuil Rusev</a> 
+   Typographies - Computer Modern, Donald E.Knuth // Les paillettes, collection de glyphes inclusifs par Victoire Bondoux & Roxanne Maillet //# Markdown Parser, <a href="https://github.com/erusev/parsedown-extra"> Parsedown Extra </a> (c) <a href="http://erusev.com">Emanuil Rusev</a>
   </div>
 
 </body>
-
 </html>

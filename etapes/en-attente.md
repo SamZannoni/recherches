@@ -3,12 +3,10 @@
 ### <div id="accueil"><a href="../index.php">accueil-home</a></div>
 <br>
 
-### Texte en attente
+### Texte en attente, en vrac, en cours, en désordre,
 
-### Un bon logiciel est-il nécessairement un logiciel avec beaucoup d'options?
-
-
-
+Le designer cherche à résoudre des problème, et conçoit des apps, des logiciels pour résoudre ces problèmes. Internet -> possédé par quelques grandes entreprises.
+Un bon logiciel est-il nécessairement un logiciel avec beaucoup d'options?
 La volonté d’opacifier les logiciels. La course a la simplicité pour læ utilisateur<span>j</span>, le désir de ne plus perdre du temps? Les licences?
 
 En soi, il n’y a pas de mal à ce qu’un logiciel soit programmé par plusieurs développeur<span>j</span>s compétent<span>j</span>s, et de payer pour ça. Le problème avec Adobe, c’est qu’il est impossible d’avoir le contrôle sur de nombreux points. Le fait que les mises à jour soit incessantes, l’impossibilité d’ouvrir un fichier d’une ancienne version… Jurg Lheni à tenté avec Scriptographer mais il n’a pas souhaité continuer a mettre à jour car c’était trop de travail.
@@ -16,29 +14,8 @@ Mais aussi comment le logiciel lisse les formes, et oriente selon une certaine v
 Comment ?
 Le set d'outil du/de læ designer c'est ÇA -> brush, ciseau, feuille. Cette idée de concevoir un set d’outils qui serait plus ou moins adapté à toust<span>j</span>? Tente de reproduire le réel, mais ne fais que camoufler. Peut être penser des outils de création non massivement multi-utilisateur<span>j</span>s, et donner la possibilité au utilisateur<span>j</span>s de se concevoir leurs outils.
 
-### Le camouflage des données
-
+Le camouflage des données
 En quoi situer un outil économiquement est-il important?
-
-Ruben Pater, « CAPS LOCK: How capitalism took hold of graphic design »
-(c’est une prise de note, je ne l’ai pas réécrite)
-D’où vient l’objet? Pour qui? Situer l’économie d’un objet. Le design graphique est venu pour accompagner la vérité, pour certifier que le produit venait bien de tel famille d’artisanxs… lorsque l’on distribue à des personnes de confiance alors ça va,  on sait qu’elle nous le rendra, mais que ce passe t’il quand l’acquisiteurx est unx inconnux ?
-La déshumanisation provoquée par les chiffres: On oublie qu’il y’a des gens, des familles derrières. Cf Gapminder, dollar street.
-Les mesures sont venues pour unifier les applications des taxes. Le format à aussi été standardisé. Mais la standardisation ne vient pas de nulle part, elle dépend de nos besoins, en l’occurence nos besoins européens. Il y’a beaucoup de formes de mesures qui ont été perdues à cause de la domination européenne qui a dit : les mètres sont les meilleurs pour calculer.
-La marque: pas forcément commerciale à la base, par exemple une famille d’artisans marquait ses outils. Læ designerx graphique peut camoufler et inventer une fiction pour donner de la valeur à un objet par le design exemple: de l’eau à 120 euros. La valeur d’un objet n’est plus en fonction de son réel coût, mais en fonction de la marque. La relation sociale entre le produit et sa valeur sont une fiction chez Nike - pourquoi est-ce aussi cher ?
-Rien de nouveau mais un nouveau design de logo donne l’impression qu’il y’a du changement.
-La promesse idéaliste du capitalisme qui dis : « Vous pouvez faire et être qui vous vouler, vous avez tous les mêmes droits »
-Référence: seeked woman workshop, collectif feministe
-Le travail ne paye pas les factures, alors les gens courent après des chimères comme celle de devenir influenceurxs.
-À la base, le design ne s’enseignait pas à l’école, c’était de la technique uniquement.
-Référence: Guild of handicraft // Sniffin’ glue, Mike Perry
-Le CauseWashing, la marque cache la violence, une bonne cause à la base ne suffit pas à faire de bonnes choses.
-Il y’a des dynamiques de pouvoirs, ce n’est pas une aide mutuelle.
-La marque sert à apparaître différement.
-Référence: DCW united voices of the world
-Si nous séparons les choses de façon à ce qu’il y’ai un gagnant et un perdant, ce n’est pas un travail heureux.
-Références: Cooperativa de Disegno buenos aires // Common knowledge, UK // Michia NINJA, Brasil /// The public, Toronto Canada
-
 Le manifeste de l’ingénieur critique https://criticalengineering.org/fr
 
 Donne à voir aux utilisateurxs ce qui est impalpable (les données, les systèmes invisible ou incompréhensibles) pour renverser cette asymétrie de pouvoir entre læ développeurx qui sait et l’utilisateurx… utilisé.
@@ -47,14 +24,13 @@ Les ingénieurx·s formatés à l’entreprise sans la questionner? La solution 
 ###### Techno-critique des imaginaires, Pierre-Antoine Charch?? Et Olaf Avenati, dans Azimuts .. à préciser
 
 > « La vie privé n’a presque plus aucune valeur aux yeux de nos contemporains » « Un commun est une ressource naturelle ou culturelle, accessible à tous les membres d’un groupe humain »
-
 ###### p15 Comment brouiller les pistes?  Camouflage. Obscurcir un programme p75  La vie privé p93
 
-> « Dans le futur, qui sait comment seront traitées nos données? Il y’a une asymétrie de pouvoir et donc des savoirs, nous ne savons pas ce qu’ils (les institutions, les possesseurxs/détenteurxs de données) font, mais eux savent ce que nous faisons » p108
+> « Dans le futur, qui sait comment seront traitées nos données? Il y’a une asymétrie de pouvoir et donc des savoirs, nous ne savons pas ce qu’ils (les institutions, les possesseurxs/détenteurxs de données) font, mais eux savent ce que nous faisons »
+###### p108
 
 > "Ils auront ou ont déjà la possibilité de te refuser un emploi, un logement, un crédit. Le retrait est impossible, nous sommes déjà enregistrés de partout. Pas de binarité dans les choix, c’est plus complexe que ça, une histoire de compromis."
 > P127 sur l’utilisation du mensonge, philosophie.Edward Snowden.
-
 ###### Obfuscation, la vie privée mode d’emploi, Helen Nissembaum, Finn Brunton, C&F éditions, 2019
 
 L’interface à pris une telle place qu’on ne sait plus ce qu’est une arborescence de fichiers. Elle contribue à obscurcir les systèmes.
@@ -73,6 +49,7 @@ La transparence passe par l’empouvoirement des personnes, la possibilité d’
 
 Clémence Seurat conçoit avec ??? le projet Blockchain kidz, un projet ou iels se sont intéressés à cette technologie en se documentant sur le sujet et en mettant en forme un site web. Iels ont invités une fois par moi des artistes, des chercheurxs, des designerxs, des activistes à rendre compte des nombreux espaces de reflexion ouverts par la technologie blockchain.
 Bruno Latour: L’outil sociaux-technique n’est pas indépendant de son contexte, la technique n’est pas neutre. Identifier les acteurxs d’une controverse mais surtout proposer autre chose que l’idée majoritaire, la vision ou la parole dominante.
+### Les lanceurxs d'alerte
 La CRIIRAD est un laboratoire indépendant situé à Valence, elle dénonce les problématiques liées à la désinformation des habitantxs face au nucléaire, et il est capital que ce genre d’initiative continue à exister pour prévenir et informer — écrire + sur ce qu’à fait la CRIIRAD —
 « Quand on à le savoir et la connaissance, on ne peut plus se laisser faire. »
 « Nous vivons dans le mensonge et la désinformation. » entendu lors du webinaire de la CRIIRAD
@@ -100,7 +77,7 @@ La collaboration c’est entre toi et les gens avec qui tu performe, ou même to
 Le magazine grand échelle est un bon exemple de collaboration mais la collaboration n’est pas là, aucunxs des auteurxs ne se parlent.
 Le fait d’alimenter des forums pour partager les connaissances, la communauté Blender, toutes les communautés logicielles en général…
 La collaboration sur un même capteur/ ordinateur/ smartphone.
-
-
-
 M.A.J -> Les arts codés sont des lieux de convergence et d’hybridation entre savoirs faire traditionnels et numériques.
+
+### Le métaverse
+L’avènement du métaverse par Facebook n’est qu’une continuité du rêve de domination mondiale de la géante multinationale, pour capter encore plus de données d'utilisateurxs.
