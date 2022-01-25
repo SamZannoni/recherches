@@ -72,3 +72,11 @@
 - https://stupidhackathon.com/
 - http://www.b-0-m-b.net/
 - https://open-weather.community/
+
+### Conférence
+
+- Séminaire Olivier Bosson, 14 septembre 2021
+- Séminaire Lucile Haute, 19 octobre 2021
+- Séminaire Clémence Seurat, 9 novembre 2021
+- Séminaire Ruben Pater, 29 novembre 2021
+- Séminaire Raphaël Forment, janvier 2021
