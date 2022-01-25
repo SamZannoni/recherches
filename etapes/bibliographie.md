@@ -11,6 +11,7 @@
 - <span class="en-cours">(en cours)</span> Visualisation. L’interprétation modélisante, Johanna Drucker, traduit de l’anglais par Marie-Mathilde Bortolotti, Édition B42
 - <span class="en-cours">(en cours)</span> Aesthetic programming, A Handbook of Software Studies, Winnie Soon and Geoff Cox, édité par Open Humanities Press, 2020
 - <span class="en-cours">(en cours)</span> Design et humanité numériques, Anthony Masure, Collection esthétique des données, Éditions B42, 2017
+- <span class="pas-lu">(pas lu)</span> Technique & design graphique : outils, médias, savoirs / [sous la direction de Vivien Philizot et Jérôme Saint-Loubert Bié], 2020
 - <span class="pas-lu">(pas lu)</span> Software Takes Command, Lev Manovich, Bloomsbury publishing, 2013
 - <span class="pas-lu">(pas lu)</span> CAPS LOCK: How capitalism took hold of graphic design, Ruben Pater
 - <span class="pas-lu">(pas lu)</span> Design Struggles,Intersecting Histories, Pedagogies, and Perspectives, Claudia Mareis & Nina Paim (eds.), édition Valiz, 2021
@@ -80,3 +81,4 @@
 - Séminaire Clémence Seurat, 9 novembre 2021
 - Séminaire Ruben Pater, 29 novembre 2021
 - Séminaire Raphaël Forment, janvier 2021
+- Séminaire Bonjour Monde, janvier 2021

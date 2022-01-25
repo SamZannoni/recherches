@@ -5,6 +5,14 @@
 
 ### Texte en attente, en vrac, en cours, en désordre,
 
+Vivien Philizo, dans la revue Signe, Graphisme et Transgression
+Sur le graphiste amateur, commercial, auteur, savant. Comment on en est venu à détourner les codes, à reprendre ceux de la culture pop.
+Sur le vernaculaire, terme emprunté à la linguistique pour désigner le langage que l'on utilise dans le quotidien, loin des normes et des pression de la langue dominante.
+
+
+>Appliqué au domaine du graphisme, ce terme désigne un vocabulaire et une syntaxe visuels. Le vernaculaire représente alors toutes les formes non légitimes, les « sous- cultures » ou pratiques alternatives, comme autant d’identités visuelles à découvrir, à exploiter, à citer, à récupérer ou à détourner.
+###### P.4
+
 Le designer cherche à résoudre des problème, et conçoit des apps, des logiciels pour résoudre ces problèmes. Internet -> possédé par quelques grandes entreprises.
 Un bon logiciel est-il nécessairement un logiciel avec beaucoup d'options?
 La volonté d’opacifier les logiciels. La course a la simplicité pour læ utilisateur<span>j</span>, le désir de ne plus perdre du temps? Les licences?
