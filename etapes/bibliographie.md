@@ -47,6 +47,8 @@
 
 ### Projets, collectifs, logiciels
 
+- CRTL + F, carnet de recherche d'Elise Goutagny sur Hypothèse et sur Instagram
+- https://dobbeltdagger.net/VocableCode/ Software art(logiciel comme art) réalisé par Winnie Soon, le code/la programmation peut-elle être féministe, queer ?
 - https://feministsearchtool.nl/
 - http://bafe.fr/
 - https://cyberfeminismindex.com/
