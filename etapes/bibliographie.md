@@ -9,7 +9,6 @@
 - <span class="en-cours">(en cours)</span> Langage des nouveaux médias, Lev Manovich, traduit de l’anglais par Richard Crevier, Les presses du réel, 2010, écrit en 2001?
 - <span class="en-cours">(en cours)</span> Pour en finir avec la mécroissance, Ars industrialis, Bernard Stiegler, Alain Giffard, Christian Fauré, Édition Flammarion, 2010
 - <span class="en-cours">(en cours)</span> Visualisation. L’interprétation modélisante, Johanna Drucker, traduit de l’anglais par Marie-Mathilde Bortolotti, Édition B42
-- <span class="en-cours">(en cours)</span> Aesthetic programming, A Handbook of Software Studies, Winnie Soon and Geoff Cox, édité par Open Humanities Press, 2020
 - <span class="en-cours">(en cours)</span> Design et humanité numériques, Anthony Masure, Collection esthétique des données, Éditions B42, 2017
 - <span class="pas-lu">(pas lu)</span> Technique & design graphique : outils, médias, savoirs / [sous la direction de Vivien Philizot et Jérôme Saint-Loubert Bié], 2020
 - <span class="pas-lu">(pas lu)</span> Software Takes Command, Lev Manovich, Bloomsbury publishing, 2013
@@ -19,6 +18,7 @@
 - <span class="pas-lu">(pas lu)</span> De la misère symbolique, Bernard Stiegler,Flammarion/Champs-essais, 2013
 - <span class="pas-lu">(pas lu)</span> Code is law, Lawrence Lessig, Basic Books, 2006
 - <span class="pas-lu">(pas lu)</span> Ce que Laurence Rassel nous fait faire, Laurence Rassel, 2020
+- <span class="lu">(lu)</span> Aesthetic programming, A Handbook of Software Studies, Winnie Soon and Geoff Cox, édité par Open Humanities Press, 2020
 - <span class="lu">(lu)</span> Art++, sous la direction de David-Olivier Lartigaud, Collection Script, HYX, 2011
 - <span class="lu">(lu)</span> Obfuscation, la vie privée mode d’emploi, Helen Nissembaum, Finn Brunton, C&F éditions, 2019
 - <span class="lu">(lu)</span> Lire à l’écran, Édition B42, actes de la journée d’étude organisée par L’ESAD de Valence, 2011
@@ -47,6 +47,11 @@
 
 ### Projets, collectifs, logiciels
 
+- http://eugéniebidaut.eu/kratos_gratos/
+- Hunt for the gay planet, Anna anthropy, https://collection.eliterature.org/3/works/hunt-for-the-gay-planet/hunt-for-the-gay-planet.html
+- https://collection.eliterature.org/3/works/with-those-we-love-alive/empress.html, Porpentine
+- https://depatriarchisedesign.com/
+- Youpron.love http://youpron.love/
 - CRTL + F, carnet de recherche d'Elise Goutagny sur Hypothèse et sur Instagram
 - https://dobbeltdagger.net/VocableCode/ Software art(logiciel comme art) réalisé par Winnie Soon, le code/la programmation peut-elle être féministe, queer ?
 - https://feministsearchtool.nl/

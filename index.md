@@ -12,9 +12,10 @@
 ### \> Dossier notes de lectures
 
 <a class="articles" href="notes/notesBS.php">&#10023; Notes sur Bernard Stiegler et Jacques Ellul</a><br>
-<a class="articles" href="notes/notesAM.php">&#10023; Notes sur les articles Anthony Mazure</a> <br>
+<a class="articles" href="notes/notesAM.php">&#10023; Notes sur les articles Anthony Masure</a> <br>
 <a class="articles" href="notes/notesWS.php">&#10023; Notes sur Aesthetic programming, Winnie soon, Geoff Cox </a> <br>
 <a class="articles" href="notes/notesRP.php">&#10023; Notes sur Ruben Pater</a> <br>
+<a class="articles" href="notes/notesLR.php">&#10023; Notes sur Legacy Russell, Glitch Feminism manifesto</a> <br>
 
 ### \> Dossier programmation
 
