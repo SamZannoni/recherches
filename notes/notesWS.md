@@ -14,3 +14,9 @@ Traduction libre approximative ......
 Iels ne sont pas intéressé<span>j</span>s par ça uniquement au vu de leur positions et leur origines culturelles, mais surtour parce que la différence de pouvoir est implicite dans le code. La culture computationnelle n’est pas juste à la mode, ou là pour résoudre quelconque problème ou comprendre mieux comment fonctionne la computation, c’est un moyen de s’engager avec la programmation pour questionner les paradigmes technologiques existants, et après créer des changements dans le système. La programmation est un moyen d’expression. L’esthétique n’est pas entendue au sens de la beauté, mais dans le sens esthétique politique cf Jacques Rancière. La programmation serait un moyen de comprendre la société puisque c’est un objet culturel- W.Benjamin."
 
 Git comme modèle pour le livre, la possibilité de forker; Le livre n’est plus un objet fini, mais un objet multiple.
+
+D'habitude, les livres sur l'apprentissage de la programmation s'attarde davantage sur des questions techniques, sur comment être unx bonnx ou meilleurx programmeurxs, mais très peu introduisent la programmation avec sa dimension culturelle et esthétique. 
+De nombreux champs de recherche emergent et tendent à faire reconnaître la pratique de la programmation comme un objet d'étude socio-culturel.
+
+Le livre propose une autre manière d'apprendre le code, et de l'écrire.
+

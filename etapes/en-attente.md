@@ -5,6 +5,17 @@
 
 ### Texte en attente, en vrac, en cours, en désordre,
 
+### Copier-coller le code
+L'idée d'un partage absolu des ressources et de la création? Dans certains contextes, il y'a une volonté d'obscurcir le code, d'obfusquer.
+
+Des environnements comme GéoTortue, ou Sonic Pi qui simplifient énormément l'abstraction des langages - ce sont ce qu'on appelle des langages de haut niveau,  - vont également dans cette direction. 
+
+ En effet, la documentation des projets prend une place importante dans la culture du libre, puisque c’est surtout grâce à elle qu’est possible la transmission de ces savoirs - le code sans commentaires, explications, ne peut qu'être cryptique.
+Ce n'est pas pour autant que l'apprentissage de la programmation est une tâche facile, et la réticence de nombreu<span>j</span> personnes face à la simple vue du code est toujours fréquente.
+
+Les forums, les tutoriels, la mise en place de nouveaux outils permettant le partage des ressources autour de la programmation sont essentiels.
+###### (La culture DIY, mais aussi la réappropriation par le marketing: Anthony Masure, «Makers : Fable labs ? », Strabic.fr, janvier 2013, https://www.anthonymasure.com/articles/2013-05-makers-fables-labs-chris-anderson)
+
 Vivien Philizo, dans la revue Signe, Graphisme et Transgression
 Sur le graphiste amateur, commercial, auteur, savant. Comment on en est venu à détourner les codes, à reprendre ceux de la culture pop.
 Sur le vernaculaire, terme emprunté à la linguistique pour désigner le langage que l'on utilise dans le quotidien, loin des normes et des pression de la langue dominante.

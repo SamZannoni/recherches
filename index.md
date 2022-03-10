@@ -6,6 +6,7 @@
 ### \> Étapes de recherche
 <a class="articles" href="etapes/enonce.php">&#10023; Un premier énoncé de la recherche</a><br>
 <a class="articles" href="etapes/rendu1.php">&#10023; Rendu numéro 01 - janvier 2022</a><br>
+<a class="articles" href="etapes/rendu2.php">&#10023; Rendu numéro 02 - mars 2022</a><br>
 <a class="articles" href="etapes/bibliographie.php">&#10023; Bibliographie, webographie, toutes ressources confondues</a><br>
 <a class="articles" href="etapes/en-attente.php">&#10023; Textes en attente :'(</a><br>
 
@@ -16,6 +17,11 @@
 <a class="articles" href="notes/notesWS.php">&#10023; Notes sur Aesthetic programming, Winnie soon, Geoff Cox </a> <br>
 <a class="articles" href="notes/notesRP.php">&#10023; Notes sur Ruben Pater</a> <br>
 <a class="articles" href="notes/notesLR.php">&#10023; Notes sur Legacy Russell, Glitch Feminism manifesto</a> <br>
+
+### \> Dossier dynamiques de pouvoir
+
+<a class="articles" href="pouvoir/sources.php"> &#10023; Les sources et les références empoisonnées</a>
+
 
 ### \> Dossier programmation
 
