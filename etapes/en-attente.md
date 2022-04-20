@@ -5,8 +5,7 @@
 
 ### Texte en attente, en vrac, en cours, en désordre,
 
-### Copier-coller le code
-L'idée d'un partage absolu des ressources et de la création? Dans certains contextes, il y'a une volonté d'obscurcir le code, d'obfusquer.
+Copier-coller le code: L'idée d'un partage absolu des ressources et de la création? Dans certains contextes, il y'a une volonté d'obscurcir le code, d'obfusquer.
 
 Des environnements comme GéoTortue, ou Sonic Pi qui simplifient énormément l'abstraction des langages - ce sont ce qu'on appelle des langages de haut niveau,  - vont également dans cette direction. 
 

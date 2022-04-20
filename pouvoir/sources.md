@@ -5,9 +5,14 @@
 <br>
 ### Les sources et les références empoisonné<span>j</span>es
 
-Depuis le début de mes recherches, initiées il y'a 6 mois maintenant, je me heurte constamment à des HSBC<a class="more_infos">a</a><span class="hide">Homme Straight Blanc Cis</span>. 
-Le numérique étant par essence un domaine de blancs bourgeois, il est difficile de faire autrement quant à l'accès à des textes théoriques. Pourtant dans des philosophies progressistes, militantes, pionnières dans leurs domaines, et qui sont en lien direct avec ma recherche, je n'ai pas l'envie et la volonté de mettre en avant des personnes comme Richard Stallman<a class="more_infos">a</a> <span class="hide"> Richard Stallman est l'initiateur du mouvement du logiciel libre. Il à défendu Marvin Minksy, professeur du MIT que j'ai cité dans mon mémoire de DNSEP en 2021 pour ses travaux avec Seymourt Paper sur le langage Logo, et qui est associé directement à l'affaire Epstein. https://fr.wikipedia.org/wiki/Richard_Stallman</span>, bien qu'il soit souvent nécessaire pour contextualiser une information, comme un mouvement social ou un courant de pensée. 
-- L'expression "Personal est political(1970)" dans les années 1960 par Carol Hanisch
+Depuis le début de mes recherches, initiées il y'a 6 mois maintenant -et même avant avec le master, je me rend bien compte que la majorité de mes références sont masculines et blanches.
+
+- The worlds needs Science, Science needs Women <a class="more_infos">a</a> <span class="hide"> <a href="https://www.forwomeninscience.com/">Campagne de pub Loréal</a> </span>
+
+- <a href="https://www.ellesbougent.com/agenda/actualites/derniers-jours-pour-candidater-aux-trophees-de-egalite-elles-bougent-2450/" target="_blank">https://www.ellesbougent.com/agenda/actualites/derniers-jours-pour-candidater-aux-trophees-de-egalite-elles-bougent-2450/</a>
+
+Le numérique étant par essence un domaine de blancs plutôt aisés, il est difficile de faire autrement quant à l'accès à des textes théoriques. Pourtant dans des philosophies progressistes, militantes, pionnières dans leurs domaines, et qui sont en lien direct avec ma recherche, je n'ai pas l'envie ni la volonté de mettre en avant des personnes comme Richard Stallman<a class="more_infos">a</a> <span class="hide"> Richard Stallman est l'initiateur du mouvement du logiciel libre. Il à défendu Marvin Minksy, professeur du MIT que j'ai cité dans mon mémoire de DNSEP en 2021 pour ses travaux avec Seymourt Paper sur le langage Logo, et qui est associé directement à l'affaire Epstein. https://fr.wikipedia.org/wiki/Richard_Stallman</span>, bien qu'il soit souvent nécessaire pour contextualiser une information, comme un mouvement social ou un courant de pensée. 
+- L'expression "Personal is political(1970)" dans les années 1960 par Carol Hanisch
 
 Il me semble impossible de citer le travail de quelqu'unx, sans jamais aborder ce qui semblerait être de l'ordre de "l'intime", du personnel. 
 <!-- La recherche dans ces conditions est vraiment très désagréable. Dès que l'on trouve un article ou un livre intéressant, on sait presque d'avance que si c'est un homme blanc cis het, on as potentiellement la "chance" de tomber sur quelqu'un de "problématique" - pour ne pas dire un violeur, un sexiste, un raciste, un transphobe, un validiste, bref un opresseur.  -->
