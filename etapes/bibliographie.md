@@ -47,10 +47,11 @@
 
 ### Projets, collectifs, logiciels
 
+- https://futuress.org/
+- https://depatriarchisedesign.com/
 - http://eugéniebidaut.eu/kratos_gratos/
 - Hunt for the gay planet, Anna anthropy, https://collection.eliterature.org/3/works/hunt-for-the-gay-planet/hunt-for-the-gay-planet.html
 - https://collection.eliterature.org/3/works/with-those-we-love-alive/empress.html, Porpentine
-- https://depatriarchisedesign.com/
 - Youpron.love http://youpron.love/
 - CRTL + F, carnet de recherche d'Elise Goutagny sur Hypothèse et sur Instagram
 - https://dobbeltdagger.net/VocableCode/ Software art(logiciel comme art) réalisé par Winnie Soon, le code/la programmation peut-elle être féministe, queer ?
