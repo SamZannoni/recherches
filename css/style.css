@@ -85,12 +85,97 @@
     span {
         font-family: 'sblad';
     }
+
+    blockquote{
+                break-after: avoid;
+        break-before: avoid;
+        break-inside: avoid;
+    }
     p {
+
         margin-left: 0;
         margin-top: 1mm;
         margin-bottom: 0px;
         font-size: 1.1em;
     }
+
+    a{
+        color: blue;
+    }
+
+    /*--------------------------------------------------*/
+/*TABLE DES MATIERES*/
+
+#flecheHaut{
+    font-size: 3vw;
+    color: hsl(160deg 45% 60%);
+    position: fixed;
+    left: 6vw;
+    bottom: 5vh;
+    display: none;
+}
+
+.sous-titre{
+    font-size: 12pt;
+    left: 3vw;
+    display: inline-block;
+    position: absolute;
+}
+
+.grand-titre{
+
+}
+
+
+img {
+    width: 100%;
+    display: grid;
+    align-content: center;
+    margin: auto;
+    position: relative;
+}
+
+.more_infos {
+    color: mediumseagreen;
+    font-size: 1.2em;
+    font-family: 'sblad';
+    padding: 2px;
+    cursor: pointer;
+    top: -12px;
+    position: relative;
+    left: 0px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.more_infos:hover {
+    background-color: fuchsia;
+    color: black;
+    font-family: 'sblad';
+    width: 5px;
+}
+
+.hide {
+    top: 0px;
+    position: relative;
+    display: none;
+    color: mediumseagreen;
+    padding-left: 10px;
+    /* font-style: italic; */
+    font-family: 'cmu-serif-roman';
+}
+
+.date {
+    padding-left: 10px;
+    font-weight: normal;
+    color: hsl(0 0% 30% / 1);
+    font-family: 'cmu-serif-roman';
+    font-size: 12pt;
+}
+
+.commentaires{
+    color: hsl(0deg 0% 70%);
+}
 }
 
 @media screen {
@@ -171,7 +256,7 @@
         margin-bottom: 4vh;
         margin-left: auto;
         margin-right: auto;
-        max-width: 700px;
+        max-width: 745px;
         line-height: 1.8em;
     }
     #credits {
@@ -183,7 +268,7 @@
         margin-bottom: 4vh;
         margin-left: auto;
         margin-right: auto;
-        max-width: 700px;
+        max-width: 745px;
         line-height: 1.8em;
         bottom: 0vh;
     }
@@ -217,7 +302,29 @@
         cursor: pointer;
         font-family: 'sblad';
     }
+
+    /*--------------------------------------------------*/
+/*TABLE DES MATIERES*/
+
+#flecheHaut{
+    font-size: 3vw;
+    color: hsl(160deg 45% 60%);
+    position: fixed;
+    left: 6vw;
+    bottom: 5vh;
 }
+
+.sous-titre{
+    font-size: 12pt;
+    left: 3vw;
+    display: inline-block;
+    position: absolute;
+}
+
+.grand-titre{
+
+}
+
 
 img {
     width: 100%;
@@ -250,9 +357,24 @@ img {
 .hide {
     top: 0px;
     position: relative;
-    background-color: none;
     display: none;
     color: mediumseagreen;
-    font-style: italic;
+    padding-left: 10px;
+    /* font-style: italic; */
     font-family: 'cmu-serif-roman';
+}
+
+.date {
+    padding-left: 10px;
+    font-weight: normal;
+    color: hsl(0 0% 30% / 1);
+    font-family: 'cmu-serif-roman';
+    font-size: 12pt;
+}
+
+.commentaires{
+    color: hsl(0deg 0% 70%);
+}
+
+
 }

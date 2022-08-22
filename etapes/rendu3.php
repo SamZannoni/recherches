@@ -4,8 +4,8 @@
 include '../ressource/Parsedown.php';
 include '../ressource/ParsedownExtra.php';
 
-$texte = file_get_contents('en-attente.md');
-// $partie2 = file_get_contents('texte2.md');
+//Changer ici *$$**$$$**$
+$texte = file_get_contents('rendu3.md');
 
 $extra = new ParsedownExtra();
 
@@ -16,10 +16,12 @@ $extra = new ParsedownExtra();
 
 <head>
     <meta charset="UTF-8">
-    <title><span>j</span>Texte en attente</title>
+    <title>rendu numéro 3, mai 2022</title>
     <link rel="stylesheet" href="../css/style.css">
+    <!-- <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script> -->
     <script src="../js/script.js"></script>
 
+    <!-- <link href="../css/interface.css" rel="stylesheet" type="text/css"> -->
 </head>
 
 <body>

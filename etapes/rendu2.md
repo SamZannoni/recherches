@@ -79,7 +79,7 @@ L'écriture du code informatique est donc aussi un objet d'étude contemporain. 
 ###### Mark C. Marino, <em>Études de code critiques</em>, 2006, traduit par Google traduction :-(
 
 Les CCS proposent alors d'envisager de lire le code comme un texte de littérature. Ses méthodologies passent par des processus interprétatifs, pas seulement proscriptifs ou descriptifs. 
-Des recherches comme celles de Winnie soon et Geoff Cox avec l'esthétique computationnelle sont en lien direct avec les Software Studies, et dans une certaine mesure avec les CCS. Elles croisent théorie de la culture computationnelle, l’esthétique et les études culturelles, avec un intérêt particulier dans les relations de pouvoir qui sont méconnues comme les inégalitées et les injustices relatives à la classe, le genre, la sexualité, autant que la race et les restes de l’héritage colonial. 
+Le livre <em>Aesthetic programming</em><a class="more_infos">a</a><span class="hide">publié par Open Humanities Press, 2020, disponible sur https://aesthetic-programming.net/ et forkable sur Gitlab https://gitlab.com/aesthetic-programming/book</span> de Winnie soon et Geoff Cox, est en lien direct avec les Software Studies, et dans une certaine mesure avec les CCS. Elles croisent théorie de la culture computationnelle, l’esthétique et les études culturelles, avec un intérêt particulier dans les relations de pouvoir qui sont méconnues comme les inégalitées et les injustices relatives à la classe, le genre, la sexualité, autant que la race et les restes de l’héritage colonial. 
 Leur livre, qui ressemble fortement à un tutoriel pour apprendre le code, n'a pourtant pas comme objectif de nous apprendre à être des bons ou des mauvais programmeur<span>j</span>s. Ici, la volonté des auteur<span>j</span>s est plutôt de proposer au programmeur<span>j</span>s ou à l'apprenti<span>j</span> programmeur<span>j</span>s de regarder le code autrement que comme un outil technique dénué de sens et purement fonctionnel. 
 
 > Apprendre à coder peut être agréable et enrichissant, mais cela peut aussi être ennuyant et frustrant, surtout quand des syntaxes et des structures complexes sont impliquées. Il faut du temps pour se familiariser avec une logiques et des procédures de calcul précises et impardonnables, mais j'espère que les arguments en faveur de l'importance de l'apprentissage de la programmation ont maintenant été établis. Le choix est simple: "programmer ou être programmer".
@@ -98,7 +98,7 @@ La forme de l'édition elle même est également différente des autres livres; 
 Iels introduisent Git pratiquement au tout début de leur ouvrage, en explicitant clairement d'ou il vient, qui l'a conçu et pourquoi, en revenant par exemple sur l'origine du mot Git, qui, en argot britannique signifie dans l'idiome commun "stupide traqueur de contenu". C'est un logiciel ouvertement social, et horizontal. 
 Iels exposent également un des débats sur les termes utilisés au sein du logiciel, comme le recourt aux termes "master" et "slaves" pour signifier quand un procédé prend le dessus sur un autre, considérée comme une "métaphore brisée" et une "métaphore oppressive", selon Ron Eglash et l'Internet Engineering Task Force (IETF).
 <br><br> 
-### <span class="en-cours">(en cours)</span>
+### <span class="en-cours">(mis à jour le 21 avril 2022)</span>
 
 Dans les communications interpersonnelles quotidiennes, un autre exemple linguistique serait la politique des pronoms et comment l'utilisation de « elle », « il » ou « ils » indique une position du sujet dans la référence aux personnes et dans le genre des objets, étant donné que le langage a tendance à être « créé par l'homme ». Iels expliquent que les mots ont des conséquences politiques et peuvent être nuisible (cf judith butler), et cela même dans le nommage des objets ou des fonctions.
 
@@ -111,19 +111,25 @@ Chaque chapitre se cloture par un while()<a class="more_infos">a</a><span class=
 + Plus d'amour et de soins dans le code! 
 <!-- > La programmation est un moyen de comprendre la société puisque c’est un objet culturel -->
 
+### Design politique, engagé, en lutte
+
 Cette approche du design, volontairement et clairement affichée comme politique, impliquées dans les luttes sociales, est un design vers le quel on devrait tendre. Est-il possible de faire du design féministe intersectionnel, anti raciste, écologique, impliqué politiquement dans les luttes?
 
 C'est la ligne éditoriale et l'engagement de la plateforme Futuress<a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, https://futuress.org/</span> et de l'association depatriarchise design<a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, https://depatriarchisedesign.com/</span>. Comme expliqué sur leur site, depatiarchise design à été conçu en 2017 en réaction a la discipline du design apparement apolitique, mais profondément problématique<a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, le à propos du site depatriarchise design https://depatriarchisedesign.com/about/</span>. Initié comme un blog, l'initiative s'est rapidement transformée en une multitude d'actions comme des ateliers, des conférences, des courts-métrage. En 2021, l'association common-interest conçoit la plateforme Futuress, pensé comme un hybride entre un magazine et une plateforme communautaire. 
 
-> “We stand together, a community for transnational solidarity. We view design as a social and political practice—one that shapes our lived realities.“
+> “We stand together, a community for transnational solidarity. We view design as a social and political practice—one that shapes our lived realities.“ Tanveer Ahmed,chercheuse en design de mode, pour l'article insitutional friction de Futuress, paru en 2021.
 
-> “As design educators, we should bring community activism into the classroom. In my teaching, I focus on the production process, which should be foregrounded within fashion design education.“ Tanveer Ahmed, chercheuse en design de mode, pour l'article insitutional friction de Futuress, paru en 2021, Ce texte est issu d'une table ronde organisée par le Camden Art Center le 21 juillet 2021. L'événement, intitulé Antiracist Futures: Reclaiming Design Pedagogy , a été inspiré par la publication Design Struggles: Intersecting Histories, Pedagogies, and Perspectives , éditée par Claudia Mareis et Nina Paim, et publié par Valiz. Le texte a été transcrit et édité pour plus de clarté et de brièveté.
+Dans ce texte issu d'une table ronde organisée par le Camden Art Center le 21 juillet 2021.<a class="more_infos">a</a><span class="hide">L'événement, intitulé Antiracist Futures: Reclaiming Design Pedagogy , a été inspiré par la publication Design Struggles: Intersecting Histories, Pedagogies, and Perspectives , éditée par Claudia Mareis et Nina Paim, et publié par Valiz. Le texte a été transcrit et édité pour plus de clarté et de brièveté.</span> Tanveer Ahmed revendique un design engagé, et activiste, même dans son enseignement.
 
->“Despite all these efforts, it’s not uncommon for students to approach me and ask how they could land a job at Burberry, or other luxurious labels. Still, this allure and celebrity status about working with star designers and brands prevails. This will not change until we start teaching students non-competitive, collaborative ways of learning and designing, thinking about community activism and other practices.“ Tanveer Ahmed
+> “As design educators, we should bring community activism into the classroom. In my teaching, I focus on the production process, which should be foregrounded within fashion design education.“ 
 
-Apprendre d'ou viennent les choses: examiner d'un oeil critique l'origine des ressources.
+Elle insiste pour que ces étudiant<span>j</span>s apprennent d'ou viennent les choses, qu'iels examinent d'un œil critique l'origine des ressources.
 
 > "We can do this exercise for every design discipline. Why are we even using pencils; where do they originate? What knowledge is constructed through them?"
 
+Pour Tanveer Ahmed, il faudrait apprendre aux étudiant<span>j</span>s des moyens non-compétitifs et collaboratifs de faire du design, en s'inspirant des pratiques activistes.
+<br><br>
 ### Littérature numérique
+
+Le projet <em>Vocable Code (13082018)</em><a class="more_infos">a</a><span class="hide">Le projet à été publié la première fois dans le cadre du Feminist Coding Workshop  organisé par !=null en 2017.Consulté le 20 avril 2022, https://dobbeltdagger.net/VocableCode_Educational/</span> de Winnie Soon et Geoff Cox est un projet qui est à la fois un travail de <em>software art</em> - le logiciel est l'œuvre d'art et pas celui qui produit l'art- et un "codework", un travail de littérature critique qui se trouve dans le code source. Ce projet, antérieur de 3 ans à leur projet <em>Aesthetic programming</em> fait également partie du champ large et vaste, presque indéfinissable, de ce qu'on appelle la littérature numérique. 
 

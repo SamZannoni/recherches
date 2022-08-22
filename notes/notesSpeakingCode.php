@@ -4,7 +4,7 @@
 include '../ressource/Parsedown.php';
 include '../ressource/ParsedownExtra.php';
 
-$texte = file_get_contents('en-attente.md');
+$texte = file_get_contents('notesSpeakingCode.md');
 // $partie2 = file_get_contents('texte2.md');
 
 $extra = new ParsedownExtra();
@@ -16,7 +16,7 @@ $extra = new ParsedownExtra();
 
 <head>
     <meta charset="UTF-8">
-    <title><span>j</span>Texte en attente</title>
+    <title>plateforme du projet de recherche</title>
     <link rel="stylesheet" href="../css/style.css">
     <script src="../js/script.js"></script>
 

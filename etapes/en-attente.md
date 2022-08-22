@@ -99,3 +99,19 @@ M.A.J -> Les arts codés sont des lieux de convergence et d’hybridation entre 
 
 ### Le métaverse
 L’avènement du métaverse par Facebook n’est qu’une continuité du rêve de domination mondiale de la géante multinationale, pour capter encore plus de données d'utilisateurxs.
+
+### <span class="en-cours">(l'activisme dans ma façon de concevoir le design)</span>
+
+Bien que j'avais déjà commencé à prendre conscience de la portée politique de l'action de ne plus utiliser de logiciel propriétaire en tant que designeuse graphique, et de l'activisme que ça représentait, je pense qu'aujourd'hui la dimension activiste, militante à pris une envergure dont je n'imaginais pas. 
+Moi, qui ai toujours revendiqué de faire des choix apolitiques, qui ne me suis jamais mêlé de ce qui ne me concernais pas, qui pensais juste produire des formes graphiques, qui prenait ça pour un jeu. 
+
+J'avais pourtant bien l'impression de l'avoir, cette position de pseudo-neutralité, quand j'ai écris <em>Écrire le dessin</em> mon mémoire, dont le titre m'a été agilement proposé par Annick Lantenois. Elle y avait établi ce parallèle entre l'écriture que l'on pourrait définir largement par «tout système de représentation graphique», dont l'étymologie vient du grec "graphein" qui veut dire à la fois "écrire" et "peindre", et son très proche voisin, le dessin, provenant de l'italien disegno «représentation graphique», qui donnera plus tard le "design". 
+
+Dans ce mémoire, je tente une petite exploration de l'histoire de la programmation, au travers de figures de l'art génératif des débuts de l'ordinateur. Je m'intéresse à l'écriture du code, aux formes qu'il peut prendre, sans forcément saisir toutes les subtilités. Finalement, je prend cette distance, que j'imaginais indispensable pour tout travail de recherche. Je pense qu'en décrivant peut-être assez précisément les choses, je serais neutre. 
+
+Je crois bien qu'aujourd'hui j'ai dépassé tout ça. Je crois avoir compris que la neutralité n'existe pas, que tout ce qui nous entoure n'est pas dénué de contexte, que derrière chaque objet, chaque phrase, chaque mot, chaque pensée, se cache une histoire. Une histoire pas toujours composée de héros, de conquêtes, de victoire, d'innovation, de progrès, d'amour ou de joie. 
+
+Cette volonté de s'émanciper des logiciels propriétaires comme par exemple la suite Adobe, à été mon point de départ pour mener cette recherche. Après toutes ces années à étudier le design graphique, à apprendre ces logiciels par cœur, à suivre tout ces tutoriels, qu'est ce qui à bien pu me pousser à les abandonner?
+A remettre en question finalement tout ce système, basé sur l'accumulation du savoir technique, qui te loue de la créativité et qui te propose même des techniques pour avoir des idées rapidement. Remettre en question cet apprentissage du design, qui ne regarde que les méthodes de créations, les procédés générateurs de formes et qui te parle de technologies innovantes, sans jamais aborder les violences systémiques qui les entourent. Comment, si il est encore utile et necessaire de designer, concevoir un design véritablement sincère, un design "qui aide les gens en créant des produits ingénieux"<a class="more_infos">a</a><span class="hide">A critical statement, par Sophie Thurner le 28 février 2022 https://futuress.org/magazine/a-critical-statement/</span>. 
+
+- “Combien de fois, dans ma vie professionnelle, la réelle solution à un problème de design serait de ne <em>pas designer</em>?“<a class="more_infos">a</a><span class="hide">A critical statement, par Sophie Thurner le 28 février 2022 https://futuress.org/magazine/a-critical-statement/</span>. 

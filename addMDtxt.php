@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
 <?php
-include '../ressource/Parsedown.php';
-include '../ressource/ParsedownExtra.php';
+include 'ressource/Parsedown.php';
+include 'ressource/ParsedownExtra.php';
 
-$texte = file_get_contents('bibliographie.md');
+$texte = file_get_contents('texte.md');
 // $partie2 = file_get_contents('texte2.md');
 
 $extra = new ParsedownExtra();
@@ -16,9 +16,9 @@ $extra = new ParsedownExtra();
 
 <head>
     <meta charset="UTF-8">
-    <title>Bibliographie</title>
-    <link rel="stylesheet" href="../css/style.css">
-    <script src="../js/script.js"></script>
+    <title>Recherche</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
 
 </head>
 

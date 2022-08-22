@@ -1,0 +1,249 @@
+## <div id="UP"></div> &#36;recherche &#61; file&#95;get&#95;contents&#40;&#39;textes.md&#39;&#41;
+
+### <div id="accueil"><a href="../index.php">accueil-home</a></div>
+<br>
+
+### Rendu numéro 03 - Mai 2022
+
+<div>
+	<br>
+<a id="flecheHaut" href='#UP'>⤴</a>
+
+<h3 id="Table_matiere">Table des matières<span class="en-cours">(en cours)</span></h3>
+
+<a href='#P_01'>✿ La magie d'Adobe</a><br>
+<a class="sous-titre" href='#ST_00'>‐Oh My Dollz</a><br>
+<a class="sous-titre" href='#ST_01'>‐Critique d'Adobe par Anthony Masure</a><br>
+<a class="sous-titre" href='#ST_03'>‐L'open source VS le libre</a><br>
+<a class="grand-titre" href='#P_02'>✿ La programmation comme outil critique contemporain: le code comme objet d'étude socio-culturel</a><br>
+<a class="sous-titre" href='#ST_04'>‐Critical Code Studies</a><br>
+<a class="sous-titre" href='#ST_05'>‐Aesthetic programming de Winnie Soon et Geoff Cox</a><br>
+<a class="sous-titre" href='#ST_06'>‐Git, logiciel de gestion de versions</a><br>
+<a href='#P_03'>✿ La plateforme Futuress et l'article <em>Institutional Frictions</em> de Tanveer Ahmed</a><br>
+<a class="sous-titre" href='#ST_07'>‐Convergence des luttes et intersectionnalité</a><br>
+<a class="sous-titre" href='#ST_08'>‐Pour un changement de pédagogie dans le design</a><br>
+<a href='#P_04'></a>
+<a href='#P_05'></a>
+<a href='#P_06'></a>
+<a href='#P_07'></a>
+<br>
+</div>
+
+
+### <div id="P_01">La magie d'Adobe</div>
+
+C'est par l'intermédiaire de logiciels gratuits comme peuvent l'être Gimp, Photofiltre, Inkscape ou encore Paint, que j'ai pu réaliser mes premières expériences de conception graphique.
+J'ai commencé le graphisme par ordinateur vers l'âge de 10-11 ans, je dessinais des robes sur des modèles virtuels que je publiais sur le forum d'OhMyDollz<a class="more_infos">a</a><span class="hide">https://www.ohmydollz.com/ Archives disponibles sur https://web.archive.org/web/20081019011228/http://www.ohmydollz.com/forum/viewtopic.php?pid=369985#p369985</span>. C'était en suivant les conseils avisé des multiples artistes du coin des artistes, que j'avais appris à utiliser les calques, à faire des ombrages, et à utiliser des brushs.
+
+<div id="ST_00"></div>
+
+C’est donc évidemment très tôt que s’est manifesté mon désir d'utiliser Photoshop, l'un des logiciels de la suite Adobe les plus renommé du forum OhMyDollz.
+Si toutes les meilleurs stylistes du forum l'utilisaient, c'est bien qu'il devait être exceptionnel, capable de transformer des dessins pas terribles en véritables œuvres d'art! J'ai obtenu un crack du logiciel dès que l'occasion s'est présenté, quelques années plus tard, et OhMyDollz était déjà loin derrière moi. Finalement, je ne sais pas si c'est Photoshop qui rendait mes dessins exceptionnels ou si c'était plutôt les tutoriels que je suivais méticuleusement sur YouTube.
+
+> "Faites le premier pas avec Photoshop, la magie suivra. Laissez libre cours à votre créativité et créez des images d'exception, des éléments graphiques inédits et des œuvres d'art hors du commun. Oui, vous pouvez faire tout cela avec Photoshop. À partir de 23,99 € par mois."
+###### Publicité sur la page web officielle du site Adobe https://www.adobe.com/fr/products/photoshop.html, dernière capture le 16 janvier 2022
+
+J'avais déjà un coup d'avance lorsque j’ai commencé les cours de graphisme en première année de bac professionnel communication visuelle option pluri-médias. J'ai continué à accumuler du "savoir technique" en apprenant Illustrator et Indesign, deux autres logiciels emblématiques de la suite Adobe. D'après de nombreux appels d'offres, j'avais presque toutes les cartes en main, mis à part l'expérience, pour être une designeuse graphique professionnelle. La connaissance des logiciels est, en soi, une connaissance suffisante - même nécessaire - pour travailler. C'est valable pour de nombreux autres métiers: c'est le nombre de logiciels que vous maitrisez qui est déterminant pour l'embauche. Et aujourd'hui, les emplois qui échappent à l'utilisation de logiciels sont très peu nombreux.
+
+Les logiciels, et plus généralement les outils numériques, font parti intégrante du paysage. Il est donc important de les analyser eux et leurs impacts d’un point de vue esthétique, politique, social. C'est en parti ce que font les softwares studies<a class="more_infos">a</a><span class="hide">Les software studies, ou études logicielles, sont un champ de recherche multidisciplinaire. Elles émergent des sciences humaines et sociales qui étudient les logiciels, en particulier sous l'angle de leurs effets socioculturels. Elles font parties, ou on un lien très proche avec le domaine de recherche des humanités numériques. Elles s'inspirent par exemples des méthodes et des théories des humanités numériques pour étudier les logiciels.</span>, un champ de recherche interdisciplinaire initié au début des années 2000 par Lev Manovich et Matthew Fuller, qui étudient les rapports des nouvelles technologies avec l’art et la culture.
+
+Nous utilisons de nombreux logiciels - au sens large, algorithmes, programmes, applications - au quotidien, et nous ne questionnons même plus leur présence ou leur fonctionnement. Pour la plupart, nous les utilisons parce qu'ils sont des standards, qui se sont presque imposés à nous. 
+Que se passe-t’il si l’on s’écarte de ces outils fait "pour" nous, et que nous commençons à concevoir ces outils fait "par" nous ?
+
+[$programmation-interet.php](../programmation/programmation-interet.php)
+
+> « L’ordinateur, bien sûr, n’est pas juste un outil de plus, pas plus qu’il n’est simplement la combinaison d’outils divers, sorte de couteau suisse numérique. L’ordinateur est plutôt un méta-outil: il produit d’autres outils. »
+###### Outil (ou le designer graphique face à la post-production), Andrew Blauvelt, Traduit de l’américain par Véronique Rancurel (révision Samuel Vermeil), tiré di magazine «Tool (Or, Post-production for the Graphic Designer)», in Graphic Design: Now In Production, Cooper-Hewitt National Design Museum/ Walker Art Center, 2011. Disponible sur le site https://revue-azimuts.fr/numeros/47/outil-ou-le-designer-graphique-face-a-la-post-production
+
+<div id="ST_01"></div>
+
+Anthony Masure rédige entre 2011 et 2015 plusieurs articles sur la suite Adobe et plus généralement sur les softwares studies, en se basant sur des écrits de Lev Manovich et Matthew Fuller ou encore de Pierre-Damien Huyghe. Dans son article sur Adobe, il expose les incidences destructrices du marketing et du productivisme sur la créativité. Comme on peut encore aisément le constater aujourd'hui, les publicités d'Adobe présentent leurs logiciels comme étant "magiques", "intelligents", "sans limites" (Adobe.com). Le logiciel donnerait le pouvoir au créateur, en lui offrant tous les outils nécessaires. Basée sur une logique de la selection, la firme se démarque et oriente sa publicité autour de l'accumulations de fonctions nouvelles, toujours plus "impressionnantes", "surprenantes", "fluides"<a class="more_infos">a</a><span class="hide">Publicité pour After Effect, https://www.adobe.com/fr/products/aftereffects.html</span>. La logique de sélection, selon Lev Manovich, est l'action de choisir parmis une liste de choix déjà là. La création se résume à la sélection de choix/de commandes dans des menus. 
+
+![Article d'apple, vu le 6 mars 2022. "Les outils du designer"](../assets/imgs/apple1.jpg "Les outils du designer")
+###### Article sur l'apple store "Les outils du designer", consulté et vu le 6 mars 2022.
+
+> &#91;Les programmes Adobe&#93; "Ils organisent une « mise à disposition » de la créativité (Pierre-Damien Huyghe)", ils sont réactifs, ne bug pas, et il n'est pas necessaire d'écrire du code pour créer.
+###### Anthony Masure, « Adobe : le créatif au pouvoir », Strabic.fr, « L’usager au pouvoir », juin 2011, https://www.anthonymasure.com/articles/2011-06-adobe-creatif-pouvoir
+
+Dans son article, il explique à quel point la créativité est automatisée, que tout est fait pour que la création se passe sans accrocs, sans efforts. Même les sources d'inspirations sont cataloguées et uniformisées. On les retrouves dans des sites dédiés à l'inspiration, ou les images sont indexées et tagguées, pour organiser une sorte de consensus autour d'une même idée. L'objectif étant de toujours donner l'impression que la création est facile, "par la navigation sans effort parmi des galeries d’images lissées."
+
+Ce nouveau pouvoir donné au créatif est représentatif d'une volonté de démocratiser la création ( favorisation du crack, marketing aggressif, peu d'alternative dans les écoles d'art...)
+Adobe adapte et conçoit également de nouveaux produits en fonction de l'émergence de nouveaux métiers, Anthony Masure citait Adobe Cue en 2011 pour les chef de projets, et nous avons aujourd'hui Adobe XD qui est passé dans les must-have de la suite Adobe, suite à l'avènement des UX/UI designers.
+Pour Anthony Masure, il y'aurait un rapprochement entre l'ouvrier prolétaire et l'assistant de création: tout deux sont dépendant de leurs outils/machines, qui font le travail à leur place de manière disciplinée et sans écarts. Les logiciels de la suite Adobe s'inscrivent dans une logique industrielle, et même si ils ne sont pas aussi limitatifs que peut l'être une machine industrielle, ils délimitent quand même un périmètre de création. De plus, rien n'indique chez Adobe une volonté "d'ouverture vers l'imprévu". C'est également la conclusion qu'en à tiré Jurg Lheni, avec son projet Scriptographer, qu'il à abandonné pour le remplacer par Paper.js. Les mises à jour incessantes rendaient impossible toute intervention extérieure. Comme Apple qui n'admet pas "qu'un réparateur non agrégé répare leurs saint-appareils"<a class="more_infos">a</a><span class="hide">https://www.arretsurimages.net/chroniques/clic-gauche/apple-et-lautoreparation-la-grande-illusion</span>, Adobe ne met rien en œuvre pour qu'un autre programmeur interviennent dans ses systèmes.
+
+>"Depuis CS3, j'ai régulièrement contacté Adobe pour lui proposer d'unir nos forces d'une manière ou d'une autre, car je pensais qu'ils devaient être intéressés par nos efforts. Malheureusement, ils ne semblaient pas l'être, ou n'avaient pas les ressources nécessaires. Et avec leurs propres environnements de script basés sur l'enveloppement automatique de l'API native qui ne reçoivent toujours pas l'amour et l'attention aux détails qu'ils méritent (leur API est non structurée et difficile à utiliser), je ne pense pas qu'Adobe voit la nécessité d'y investir de l'énergie à l'heure actuelle. Personnellement, je pense que c'est une erreur, et j'ai essayé de le leur dire à plusieurs reprises. Mais étant donné les changements fondamentaux que beaucoup de leurs applications ont subis lors des dernières révisions, il est compréhensible qu'il y ait eu des problèmes plus urgents." 
+###### The Future of Scriptographer is … Paper.js!, Traduit avec www.DeepL.com/Translator, écrit par Jürg Lehni le 15 novembre 2012
+
+Anthony Masure pose alors la question suivante: Est-il pertinent que la création soit au service du marketing, et qu'elle soit envisagée comme une économie d'effort et de modalités?
+Pour lui, les autres voies possibles sont celles qui laissent place au hasard, à la divergence, et peut-être également au temps. Des pratiques qui seraient plus proche du terme "design". Il terminera son article sur une ouverture vers l'open source - code source ouvert, qui semble être moins autoritaire.
+
+> "L’outil numérique serait à envisager comme un champ de possibles qui ne serait pas autoritaire et normé (deux notions habituellement liées au pouvoir)."
+
+[$notesBernardStiegler-JacquesEllul.php](../notes/notesBS.php)
+
+<div id="ST_03"></div>
+
+L'open source, avec la forme d'horizontalité qu'il induit, tend en effet plutôt à être du côté de l'usager. Sa conception ouverte est totalement différente de celle du logiciel propriétaire, puisqu'elle permet en quelque sorte le partage du "pouvoir" aux membres de la communauté.
+
+> "Il y a ici une forme de valorisation qui ne passe pas par des logiques de profit, une économie de la connaissance qui fait de l’usager un contributeur (Bernard Stiegler)."
+###### Anthony Masure, « Adobe : le créatif au pouvoir », Strabic.fr, « L’usager au pouvoir », juin 2011, https://www.anthonymasure.com/articles/2011-06-adobe-creatif-pouvoir
+
+Les codes sources ouverts offrent la possibilité d'une amélioration du programme depuis la base, ou d'une adaptation du programme en fonction des besoins. Ils permettent à toutes et tous d’accéder à la totalité des spécifications techniques. Pour autant, l'open source n'est pas un remède anti-autoritaire.
+Même si leurs modèles de développements sont similaires, le logiciel open source est différent du logiciel libre. Initié par Richard Stallman ([$dynamiquesDePouvoir-SourcesEmpoisonnées.php](../pouvoir/sources.php)) avec le projet GNU en 1983<a class="more_infos">a</a><span class="hide">Richard Stallman https://fr.wikipedia.org/wiki/Richard_Stallman</span>, la culture du logiciel libre tend davantage vers un mouvement social contre les logiciels propriétaires, tandis que l'open source se focaliserait plutôt uniquement sur des considerations techniques de développement logiciel.
+
+Bien évidemment, la culture libre ne fait pas l'unanimité. Stephanie Vilayphiou, designeuse graphique et membre du collectif OSP<a class="more_infos">a</a><span class="hide">Open Source Publishing, http://osp.kitchen/about</span>, explique que l’utilisation du logiciel libre est souvent contre-productive selon les critères actuels des industries de la culture et des services, mais éminemment productive si on se place d’un point de vue de la pratique du design<a class="more_infos">a</a><span class="hide">Stephanie Vilayphiou, Entretien avec &#60;stdin&#62; p.109, Lire à l’écran, Édition B42, 2011</span>.
+Mais dans un monde toujours plus opaque, il est certain que les personnes et les pratiques qui rendent accessible et contribuent à la transmission des savoirs, contribuent également en partie à la réappropriation de nos outils et la compréhension de notre société.
+En tant que designeur<span>j</span>s, le web fait également partie de ces espaces que nous utilisons quotidiennement. C'est le HTML<a class="more_infos">a</a><span class="hide">HyperText Markup Language</span>, le CSS<a class="more_infos">a</a><span class="hide">Cascading Style Sheets</span> et le JS<a class="more_infos">a</a><span class="hide">Javascript</span>, 3 formats ouverts,  qui en sont les principaux langages de programmation. Pour beaucoup, l’apprentissage de ces langages se fait en autodidacte. Des sites spécialisés comme le W3School<a class="more_infos">a</a><span class="hide">https://www.w3schools.com/ consulté le 9 mars 2022</span> ou MDN Web Docs<a class="more_infos">a</a><span class="hide">https://developer.mozilla.org/fr/ consulté le 9 mars 2022</span> rendent possible cet enseignement. 
+<br>
+<br>
+
+###  <div id="P_02">La programmation comme outil critique contemporain: le code comme objet d'étude socio-culturel</div>
+
+Comme l’explique Annick Lantenois dans l’introduction de Lire à l’écran, parut aux éditions B42 en 2011, les langages de programmations définissent l’environnement sensible des contenus, et donc les conditions de lecture et d’écriture<a class="more_infos">a</a><span class="hide">Annick Lantennois, p.7, Lire à l’écran, Édition B42, actes de la journée d’étude organisée par L’ESAD de Valence, 2011</span>.
+Programmer, c’est se préoccuper de la sous-face, celle qui tend à être invisible, celle qui contrôle ce que l’utilisateur<span>j</span> peut ou ne peut pas faire.
+L’accessibilité et la compréhension de la programmation à touste<span>j</span> est un enjeu majeur dans un objectif de désopacification des outils numériques. Elle passe par l'accès au code source - que rend possible l'open source - mais pas seulement. Elle nécessite également des interventions pédagogiques pour rendre compréhensible techniquement ce code - usage de commentaires, tutoriels en lignes, forums. John Maeda, lorsqu'il propose Design By Numbers<a class="more_infos">a</a><span class="hide">https://dbn.media.mit.edu/</span>, qui donna suite à Processing<a class="more_infos">a</a><span class="hide">https://processing.org/</span>, s'inscrit dans cette logique. Conçu en Java, Processing est un environnement de développement libre sous licence GNU GPL<a class="more_infos">a</a><span class="hide">La licence publique générale GNU, ou GNU General Public License est une license libre créée par Richard Stallman (à préciser)</span>, qui permet de programmer en Java ainsi qu'en Javascript avec la bibliothèque P5.js. Le langage de Processing est un langage haut niveau<a class="more_infos">a</a><span class="hide">en opposition aux langages bas niveau qui sont plus abstraits, un langage de programmation de haut niveau, ou langage haut niveau est un langage ou l'écriture des programmes se fait avec des mots très proche de la langue naturelle</span>, destinés aux artistes et designer<span>j</span>s.
+
+> "Reconnaître les différents niveaux d'abstraction est important pour comprendre que les détails et les processus spécifiques du fonctionnement réel d'un ordinateur sont en grande partie masqués et/ou remplacés par des métaphores de bureau (par exemple, supprimer un fichier en le jetant à la «poubelle»)."
+###### Winnie Soon & Geoff Cox, Chapitre 6 de l'édition <em>Aesthetic Programming A Handbook of Software Studies</em>, Traduit par Google Traduction
+
+<div id="ST_04"></div>
+
+Mais rendre le code accessible et apprendre comment l'utiliser ne sont pas les seuls enjeux de notre compréhension des objets numériques. Il devient nécessaire également d'entreprendre une compréhension plus profonde de ce que représente le code: cela passe par une autre forme d'apprentissage, celui de l'interprétation et de la contextualisation des programmes.
+L'écriture du code informatique est donc aussi un objet d'étude contemporain. Dans la continuité des Softwares Studies, les études critiques du code (en anglais les <b>Critical Code Studies</b>), initiées par Mark C. Marino, constituent un champ de recherche qui propose d'interpréter le code dans son ensemble: du code lui-même, à la documentation, en passant par les commentaires, les structures etc. Pour Mark C. Marino<a class="more_infos">a</a><span class="hide">Auteur et spécialiste de la littérature numérique, il dirige le laboratoire <em>Humanity et Critical Code Studies</em> http://haccslab.com/, un groupe de recherche situé en Californie du Sud. http://markcmarino.com/wordpress/</span>, l'histoire du programme, l'auteur, le langage de programmation, le genre, la source de financement du programme - en bref la situation globale intérieure et extérieure du programme - en façonne le sens. L'objectif des Critical Code Studies n'est pas de se contenter d'analyser la syntaxe du code, ou ses spécificités techniques, mais bien d'analyser les relations sociales humaines qui influencent et produisent le code.
+
+> Le fondement des CCS est l'hypothèse que le code est un système social et sémiotique employant la grammaire et la rhétorique. Comme l'affirme Rita Raley, "le code peut, dans un sens général, être opaque et lisible uniquement pour les spécialistes, un peu comme le système de signes d'une peinture rupestre, mais il a été inscrit, programmé, écrit. Il est conditionné et concrètement historique"
+###### Mark C. Marino, <em>Études de code critiques</em>, 2006, traduit par Google traduction :-(
+
+Les CCS proposent alors d'envisager de lire le code comme un texte de littérature. Ses méthodologies passent par des processus interprétatifs, pas seulement proscriptifs ou descriptifs. 
+
+<div id="ST_05"></div>
+
+Le livre <em>Aesthetic programming</em><a class="more_infos">a</a><span class="hide">publié par Open Humanities Press, 2020, disponible sur https://aesthetic-programming.net/ et forkable sur Gitlab https://gitlab.com/aesthetic-programming/book</span> de Winnie soon et Geoff Cox, est en lien direct avec les Software Studies, et dans une certaine mesure avec les CCS. Dans leurs recherches, Winnie Soon et Geoff Cox croisent théorie de la culture computationnelle, esthétique et études culturelles, avec un intérêt particulier dans les relations de pouvoir qui sont méconnues comme les inégalitées et les injustices relatives à la classe, le genre, la sexualité, et les restes de l’héritage colonial. 
+Leur livre, qui ressemble à première vue à un tutoriel pour apprendre le code, n'a pourtant pas comme objectif de nous apprendre à être des bons programmeur<span>j</span>s. Ici, la volonté des auteur<span>j</span>s est plutôt de proposer aux programmeur<span>j</span>s ou à l'apprenti<span>j</span> programmeur<span>j</span>s de regarder le code autrement que comme un outil technique dénué de sens et purement fonctionnel. 
+
+> > “Learning to code can be enjoyable and rewarding, but also annoying and frustrating, especially when complex syntax and structure are involved. It takes time to familiarize oneself with precise, unforgiving
+computational logic, and procedures, but hopefully the case for the importance of learning to
+program has been established by now. The choice is simple: “to program or be programmed.”
+###### Mark C. Marino, <em>Études de code critiques</em>, 2006
+
+<span class="en-cours">(En rapport avec "Programmer ou être programmer" <br>
+✿Learn to Code vs. Code to Learn: Creative Coding Beyond the Economic Imperative de Silvio Lorusso<a class="more_infos">a</a><span class="hide"> https://silviolorusso.com/publication/learn-to-code-vs-code-to-learn/ 
+</span><br>
+✿Techno-critique des imaginaires, Pierre-Antoine Charch?? Et Olaf Avenati, dans Azimuts <br>
+✿Obfuscation, la vie privée mode d’emploi, Helen Nissembaum, Finn Brunton, C&F éditions, 2019 <br>
+... seront prochainement détaillé ici.)</span> 
+<br>
+
+Une des différences notable avec la plupart des livres de programmation est le choix que font les auteur<span>j</span>s de ne pas commencer avec la convention du "hello world". En effet, il est "traditionnel" lors de la découverte d'un nouveau langage de programmation de faire dire/exécuter à l'ordinateur une instruction qui "imprimera" à l'écran les mots "hello world", donnant ainsi immédiatement un sentiment de pouvoir au programmeur<span>j</span>s qui exerce alors une forme de contrôle sur la machine. 
+Dans son livre <em>Speaking code</em><a class="more_infos">a</a><span class="hide">Geoff Cox and Alex McLean, Speaking Code Coding as Aesthetic and Political Expression, MIT Press 2012 </span> - qui précède de presque 10 ans <em>Aesthetic programming</em> - Geoff Cox analyse de manière incisive les formes, l'expression et l'action du code informatique et démontre que le code fait parti d'un système technologique, qui embarque des notions de pouvoirs, de commande et de contrôle. Il consacre quelques paragraphes à la déclaration "Hello world" qui interpelle, notamment en insistant sur l'utilisation de l'anglais comme "langue maternelle" par défaut des langues des programmes. Elle interpelle aussi sur la question du sujet. Geoff Cox cite Louis Altusser, pour qui la parole, l'acte, constitue le sujet : c'est en définissant le sujet qu'il existe.
+
+- Petit précision qui me paraît importante ici, Louis Altusser est philosophe, membre du parti communiste, il est à l'origine d'un renouvellement de la pensée Marxiste. Il est aussi coupable du meurtre de sa femme, Hélène Rytmann-Legotien, qui voulait le quitter. <span class="en-cours"> (Qu'est ce que ça signifie, ici dans ce livre qui parle des relations de pouvoirs cachées, de citer Louis Althusser en ommettant de parler du meurtre de sa femme? - Décrire ici le contenu de l'article "La banalité du mâle. Louis Althusser a tué sa conjointe, Hélène Rytmann-Legotien, qui voulait le quitter", de Francis Dupuis-Déri, éditions Antipodes, 2015, consulté ici https://www.cairn.info/revue-nouvelles-questions-feministes-2015-1-page-84.htm?contenu=resume )  </span>
+
+La forme de l'édition elle-même est également différente des autres livres; une édition "forkable", modifiable, vouée à évoluer, où les textes ne sont pas sacralisés. L'édition est disponible gratuitement sur Git<a class="more_infos">a</a><span class="hide">https://gitlab.com/aesthetic-programming/book</span>, un logiciel de gestion de versions décentralisé. 
+
+<span class="en-cours">(Une description plus détaillée de Git à faire ici)</span>
+
+<!-- > "Nous imaginons cela comme la première itération de ce livre, et nous espérons voir de nombreuses ré-appropriations et <em>forks</em> du livre entier, pour que n'importe qui puisse utiliser le <em>framework</em> existant et y apporter des modifications, comme l'ajout de nouveaux chapitres, des exemples et des exercices, autant que du contenu et des références qui facilites les interactions entre la pensée et la programmation."
+###### Winnie Soon & Geoff Cox, Chapitre 1 getting started(), p.42 de l'édition <em>Aesthetic Programming A Handbook of Software Studies</em>, traduit par Google Traduction -->
+
+
+> "We imagine this is just the first iteration of this book and we hope to see many re-appropriations and forks of the entire book, so people can use the existing framework to make modifications, such as adding new chapters, examples and exercises, as well as more related content and references that facilitate the interactions between programming and thinking."
+###### Winnie Soon & Geoff Cox, Chapitre 1 getting started(), p.42 de l'édition <em>Aesthetic Programming A Handbook of Software Studies</em>
+
+
+
+<div id="ST_06"></div>
+
+
+
+Git est introduit au tout début de leur ouvrage, avec des explications concernant sa création et ses créateur<span>j</span>s, en revenant par exemple sur l'origine du mot Git, qui, en argot britannique signifie "stupide traqueur de contenu". Iels mentionnent également un des débats qui à eu lieu sur les termes utilisés au sein du logiciel, notamment le recourt aux termes "master" et "slaves" pour signifier quand un procédé prend le dessus sur un autre, et qui, selon Ron Eglash, est comme une "métaphore brisée" et une "métaphore oppressive"<a class="more_infos">a</a><span class="hide">Broken Metaphor: The Master-Slave Analogy in Technical Literature, Ron Eglash, 2007, https://www.jstor.org/stable/40061475</span>. Iels insistent sur le fait que les mots ont des conséquences politiques et peuvent être nuisible, et cela même dans le nommage des objets ou des fonctions.<span class="en-cours">(Démontré dans Excitable Speech de Judith Butler - à détailler + iels en parlent dans le chapitre 7 avec leur projet vocable code)</span>
+
+
+<!-- Dans les communications interpersonnelles quotidiennes, un autre exemple linguistique serait la politique des pronoms et comment l'utilisation de « elle », « il » ou « ils » indique une position du sujet dans la référence aux personnes et dans le genre des objets, étant donné que le langage a tendance à être « créé par l'homme ».  -->
+
+Dans ce livre, le langage de programmation utilisé est le Javascript, dont la syntaxe est un exemple spécifique de dynamiques de pouvoirs. L'utilisation de "classe" pour décrire un ou plusieurs objets dans la programmation orientée objet ainsi comme des stratifications de la société fondées sur le statut économique et social. La classe est aussi une manière de transformer des personnes en objets, en leur attribuant des caractéristiques. Winnie Soon et Geoff Cox parlent de "personne-objet"; qui contient des propriétés, et peux effectuer des fonctions.
+
+<!-- Il est aussi important de revenir aux origines de la programmation : les femmes en premières ligne, le hardware et le software, puis, la masculinisation des métiers liés à l'informatique et a la science. -->
+
+La structure des chapitres se présente sous forme d'arborescence aux choix multiples et aux entrées variables, au sein desquels il y'a toujours un <em>setup()</em>, un <em>start()</em> et un <em>while()</em>, qui sont des références à des fonctions présentes dans de nombreux programmes.
+![Chapitre 1 de livre Aesthetic programming, disponible sur https://aesthetic-programming.net/](../assets/imgs/Aesthetic-programming_1_getting_started.svg "Chapitre 1 de Aesthetic programming")
+###### Chapitre 1 de livre Aesthetic programming, disponible sur https://aesthetic-programming.net/.
+
+La partie <em>while()</em><a class="more_infos">a</a><span class="hide">francisée en "tant que", c'est une structure de controle utilisée en programmation pour exécuter plusieurs fois des instructions</span> est l'endroit ou iels sortent de la technique pour introduire des notions plus politiques, des projets d'artistes ou de designers qui questionnent l'objet du chapitre. 
+
+<span class="en-cours">(Une description plus détaillée de l'édition à faire ici:<br>
+✿Éditeur de code integré au site<br>
+✿Le menu sur le côté qui permet de naviguer comme on veut dans le chapitre<br>
+✿Le chapitre 7 avec Vocable code - présentation du projet)</span>
+
+<code class="commentaires">
+&lt;!-- Commentaires --&gt; <br>
+&lt;!-- + Plus d'amour et de soins dans le code! --&gt;</code>
+
+<code class="commentaires"> 
+&lt;!-- Le projet <em>Vocable Code (13082018)</em><a class="more_infos">a</a><span class="hide">Le projet à été publié la première fois dans le cadre du Feminist Coding Workshop  organisé par !=null en 2017.Consulté le 20 avril 2022, https://dobbeltdagger.net/VocableCode_Educational/</span> de Winnie Soon et Geoff Cox est un projet qui est à la fois un travail de <em>software art</em> - le logiciel est l'œuvre d'art et pas celui qui produit l'art- et un "codework", un travail de littérature critique qui se trouve dans le code source. Ce projet, antérieur de 3 ans à leur projet <em>Aesthetic programming</em> fait également partie du champ large et vaste, presque indéfinissable, de ce qu'on appelle la littérature numérique. 	--&gt;
+<br><br> </code>
+
+
+
+### <div id="P_03">La plateforme Futuress et l'article <em>Institutional Frictions</em> de Tanveer Ahmed</div>
+
+<div id="ST_07"></div>
+
+Cette approche du design, volontairement et clairement revendiquée comme politique, est-elle une approche vers laquelle il faudrait tendre? <br>
+<code class="commentaires">&lt;!-- Est-il possible de faire du design féministe intersectionnel, anti-raciste, écologique, non validiste... un design ou les luttes convergent? La convergence des luttes est l'idée d'une agrégation des combats qui traversent la société<a class="more_infos">a</a><span class="hide">Chloé Leprince, Convergence des luttes, grève générale, intersectionnalité : petit lexique des causes mêlées, 2018, https://www.radiofrance.fr/franceculture/convergence-des-luttes-greve-generale-intersectionnalite-petit-lexique-des-causes-melees-6320558</span>. Ce terme, apparu assez récemment, est en lien avec la notion d'intersectionnalité, introduite par Kimberlé Crenshaw en 1980.
+ --&gt;</code>
+
+<span class="en-cours">(Peut-être un lien avec:
+✿https://criticalcodestudies.com/readinggroup.html
+)</span>
+
+C'est ce que cherche à faire l'association <em>depatriarchise design</em><a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, https://depatriarchisedesign.com/</span>, et la plateforme <em>Futuress</em><a class="more_infos">a</a><span class="hide">https://futuress.org/about/</span>, qui se revendiquent comme féministes, intersectionnelles et queer.
+Les objectifs de leurs actions sont: 
+"(d')Autonomiser et amplifier les voix des femmes, BIPoC, LGBTQIA+, des personnes handicapées, des migrants et des réfugiés, et d'autres personnes issues de milieux marginalisés." et de "démocratiser radicalement l'accès à l'enseignement et au discours du design."<a class="more_infos">a</a><span class="hide">https://futuress.org/about/ et https://depatriarchisedesign.com/about/</span>
+
+<!-- d'offrir une voix aux gens dont les histoires, les perspectives ont - et parfois sont toujours - sous-représentées, opressées, ignorées<a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, https://futuress.org/</span> -->
+
+![Capture d'écran de la plateforme Futuress](../assets/imgs/futuress.png "Capture d'écran de la plateforme Futuress")
+###### Capture d'écran de la plateforme Futuress,<br> https://futuress.org/magazine/institutional-frictions/.
+
+
+Comme expliqué sur leur site, <em>depatiarchise design</em> à été conçu en 2017 en réaction a la discipline du design apparement apolitique, mais profondément problématique<a class="more_infos">a</a><span class="hide">consulté le 20 avril 2022, le à propos du site depatriarchise design https://depatriarchisedesign.com/about/ </span>. Initié comme un blog, l'initiative s'est rapidement transformée en une multitude d'actions comme des ateliers, des conférences, des courts-métrage. En 2021, l'association <em>common-interest</em> conçoit la plateforme Futuress, imaginée comme une hybridation entre un magazine et une plateforme communautaire.
+
+> At the heart of our focus is education:  the ongoing research of feminist pedagogies, and a deep belief in the urgency to radically transform hegemonic modes of learning, teaching, and producing design. Since 2018, we are a non-profit association based in Basel, Switzerland. <br>https://depatriarchisedesign.com/about/
+
+<div id="ST_08"></div>
+Dans l'article <em>Institutional Friction</em> - un des articles publiés sur la plateforme -  plusieurs chercheur<span>j</span>s en design remettent en question les privilèges à l'intérieur et à l'extérieur des salles de classe en s'interrogeant sur la manière dont des concepts tels que l'antiracisme, la décolonisation et le féminisme sont appréhendés dans l'enseignement et l'apprentissage.
+
+> “We stand together, a community for transnational solidarity. We view design as a social and political practice—one that shapes our lived realities.“ Tanveer Ahmed, chercheuse en design de mode, pour l'article insitutional friction de Futuress, paru en 2021.
+
+Dans ce texte issu d'une table ronde organisée par le Camden Art Center le 21 juillet 2021<a class="more_infos">a</a><span class="hide">L'événement, intitulé Antiracist Futures: Reclaiming Design Pedagogy , a été inspiré par la publication Design Struggles: Intersecting Histories, Pedagogies, and Perspectives , éditée par Claudia Mareis et Nina Paim, et publié par Valiz. Le texte a été transcrit et édité pour plus de clarté et de brièveté.</span>, Tanveer Ahmed, accompagnée de Sria Chatterjee<a class="more_infos">a</a><span class="hide">historienne de l'art et spécialiste des humanités environnementales</span>, Griselda Flesler<a class="more_infos">a</a><span class="hide">professeur de design et d'études de genre à la FADU de l'université de Buenos Aires</span> et Zoy Anastassakis<a class="more_infos">a</a><span class="hide">codirectrice du laboratoire de design et d'anthropologie à l'ESDI/UERJ de Rio de Janeiro</span>, revendique un design engagé, et activiste, même dans sa manière d'enseigner.
+
+> “As design educators, we should bring community activism into the classroom. In my teaching, I focus on the production process, which should be foregrounded within fashion design education.“ Tanveer Ahmed
+
+La table ronde débute par une discussion sur le mouvement Black Lives Matter, qui a permis de mettre en lumière les luttes de divers groupes opprimés. Sria Chatterjee explique que, malgrès les engagements publiques des institutions envers ce mouvement, le revers a été l'appropriation néolibérale de ces luttes. Pour Griselda Flesler, l'appropriation libérale est souvent la seule façon d'accéder à des politiques particulières que certaines personnes peuvent avoir. Elle cite Florencia Agiletta, philosophe Argentine, pour qui "nous ne pouvons pas penser le féminisme sans le marché". Les luttes s'inscriraient donc dans les exigences du capitalisme, mais utiliseraient sa dynamique pour renforcer l'impact de ces mouvement sur des publics de plus en plus hétérogènes.
+
+Pour revenir sur l'éducation, Tanveer Ahmed indique qu'elle profite de sa position privilegiée d'enseignante pour agir contre le racisme à l'université. En tant que représentante de l'égalité pour le syndicat des chargés de cours au Royal College of Art (RCA), elle à recueilli des témoignages de membres du personnel qui avaient été confrontés au racisme et les a publiés sur Instagram<a class="more_infos">a</a><span class="hide">https://www.instagram.com/rca_ucu/ </span>. L'objectif était de faire pression sur le RCA et les autres écoles pour qu'ils reconnaissent la disparité raciale au sein du personnel enseignant, en reconnaissant la blancheur dominante. Elle raconte que la seule fois où elle à reçu l'enseignement d'un professeur issu d'un groupe ethnique minoritaire, c'était lors de sa deuxième maîtrise en art et design, et ce n'était qu'un cours du soir d'une heure. Elle témoigne aussi avoir été confrontée à de nombreux commentaires racistes, aussi bien en étant étudiante qu'enseignante. Selon elle, le mouvement Black Lives Matter aurait provoqué de nombreux changements dans la pédagogie du design au Royaume-Uni.
+Pour Tanveer Ahmed, le rôle des enseignant<span>j</span>s est d'introduire l'activisme communautaire dans les salles de classe. 
+<br>Dans son enseignement, elle se concentre sur les processus de productions, qui selon elle, devraient être mis en avant dans l'enseignement du design de mode. Elle déplore le fait que des des catastrophes comme l'effondrement du Rana Plaza au Bengladesh ne soient pas des sujets centraux du design de mode. 
+
+> L'effondrement du Rana Plaza est l'effondrement d'un immeuble à Savar, faubourg ouest de Dacca, la capitale du Bangladesh, parfois appelé « catastrophe de l'usine de Dacca », le 24 avril 2013, a provoqué au moins 1 127 morts pour environ 2 500 rescapés. Les sources ultérieures parlent de 1 135 morts. C'est une conséquence de la fast fashion et de la mondialisation. Source: Wikipédia<br>  https://fr.wikipedia.org/wiki/Effondrement_du_Rana_Plaza
+
+Dans le domaine du design de mode, la priorité est plutôt tournée vers l'esthétique que vers la discussion d'alternatives non capitalistes aux modes de production et d'exploitation. 
+
+Tanveer Ahmed a été inspirée par le livre <em>Living a feminist life</em> de Sara Ahmed, qui raconte comment réunir tout les différents aspects de sa vie - activisme, pédagogie et vie quotidienne.
+Pour elle, il n'est pas question de se débarrasser des universités, mais plutôt de changer la manière dont elles fonctionnent. Plus il y'aura de personnes qui dénoncent les inégalités en matière d'éducation, plus il y'aura de transparence et donc pouvoir espérer moins de violences.
+Pour Tanveer Ahmed, il faudrait apprendre aux étudiant<span>j</span>s des moyens non-compétitifs et collaboratifs de faire du design, en s'inspirant des pratiques activistes.
+
+Sa vision du design est d'apprendre par l'objet, surtout par les choses invisibles qui le compose. D'où il vient, qui l'a conçu... Examiner d'un œil critique l'origine des ressources que nous utilisons au quotidien, en tant que designer.
+> "We can do this exercise for every design discipline. Why are we even using pencils; where do they originate? What knowledge is constructed through them?"
+
+![Activity Workshop slide by Tanveer Ahmed looking critically at resources we use in our design and teaching practices.](../assets/imgs/TanveerAhmed-activity.png "Capture d'écran de la plateforme Futuress")
+###### Activity Workshop slide by Tanveer Ahmed looking critically at resources we use in our design and teaching practices.
+
+
+
+<br>
+<br>
+
+

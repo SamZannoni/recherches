@@ -6,28 +6,35 @@
 
 ### Bibliographie:
 
-- <span class="en-cours">(en cours)</span> Langage des nouveaux médias, Lev Manovich, traduit de l’anglais par Richard Crevier, Les presses du réel, 2010, écrit en 2001?
-- <span class="en-cours">(en cours)</span> Pour en finir avec la mécroissance, Ars industrialis, Bernard Stiegler, Alain Giffard, Christian Fauré, Édition Flammarion, 2010
-- <span class="en-cours">(en cours)</span> Visualisation. L’interprétation modélisante, Johanna Drucker, traduit de l’anglais par Marie-Mathilde Bortolotti, Édition B42
-- <span class="en-cours">(en cours)</span> Design et humanité numériques, Anthony Masure, Collection esthétique des données, Éditions B42, 2017
+- <span class="en-cours">(en cours)</span> Eduardo Abaroa, Lotte Arndt, Sammy Baloji, Julien Bondaz, Abraham Cruzvillegas, Mathieu Kleyebe Abonnenc, Britta Lange, Candice Lin, Hanne Loreck, Catalina Lozano, Pauline M’barek, Spyros Papapetros, Pratchaya Phinthong, Ricardo Roque, Phillip van den Bossche, Patricia van Schuylenbergh, Françoise Vergès, RAMPER, DÉDOUBLER COLLECTE COLONIALE ET AFFECT, éditions B42, mars 2016
+- <span class="en-cours">(en cours)</span> Judith Butler, Trouble dans le genre, publié une première fois en 1990, paru au édition La Découverte en 2006
+- <span class="en-cours">(en cours)</span> Geoff Cox et Alex McLean, Speaking Code, The MIT Press, 2013
+- <span class="en-cours">(en cours)</span> Silvia Federici, Caliban et la Sorcière, 2017
+- <span class="en-cours">(en cours)</span> Lev Manovich, Langage des nouveaux médias, traduit de l’anglais par Richard Crevier, Les presses du réel, 2010, écrit en 2001?
+- <span class="en-cours">(en cours)</span> Bernard Stiegler, Alain Giffard, Christian Fauré, Pour en finir avec la mécroissance, Ars industrialis, Édition Flammarion, 2010
+- <span class="en-cours">(en cours)</span>Johanna Drucker, Visualisation. L’interprétation modélisante, traduit de l’anglais par Marie-Mathilde Bortolotti, Édition B42
+- <span class="en-cours">(en cours)</span> Anthony Masure, Design et humanité numériques, Collection esthétique des données, Éditions B42, 2017
 - <span class="pas-lu">(pas lu)</span> Technique & design graphique : outils, médias, savoirs / [sous la direction de Vivien Philizot et Jérôme Saint-Loubert Bié], 2020
-- <span class="pas-lu">(pas lu)</span> Software Takes Command, Lev Manovich, Bloomsbury publishing, 2013
-- <span class="pas-lu">(pas lu)</span> CAPS LOCK: How capitalism took hold of graphic design, Ruben Pater
-- <span class="pas-lu">(pas lu)</span> Design Struggles,Intersecting Histories, Pedagogies, and Perspectives, Claudia Mareis & Nina Paim (eds.), édition Valiz, 2021
-- <span class="pas-lu">(pas lu)</span> Caliban et la Sorcière, Silvia Federici, 2017
-- <span class="pas-lu">(pas lu)</span> De la misère symbolique, Bernard Stiegler,Flammarion/Champs-essais, 2013
-- <span class="pas-lu">(pas lu)</span> Code is law, Lawrence Lessig, Basic Books, 2006
-- <span class="pas-lu">(pas lu)</span> Ce que Laurence Rassel nous fait faire, Laurence Rassel, 2020
-- <span class="lu">(lu)</span> Aesthetic programming, A Handbook of Software Studies, Winnie Soon and Geoff Cox, édité par Open Humanities Press, 2020
+- <span class="pas-lu">(pas lu)</span> Lev Manovich, Software Takes Command, Bloomsbury publishing, 2013
+- <span class="pas-lu">(pas lu)</span>  Ruben Pater, CAPS LOCK: How capitalism took hold of graphic design, 2021, Éditions Valiz
+- <span class="pas-lu">(pas lu)</span> Claudia Mareis & Nina Paim (eds.), Design Struggles,Intersecting Histories, Pedagogies, and Perspectives, édition Valiz, 2021
+- <span class="pas-lu">(pas lu)</span> Bernard Stiegler, De la misère symbolique, Flammarion/Champs-essais, 2013
+- <span class="pas-lu">(pas lu)</span> Lawrence Lessig, Code is law, Basic Books, 2006
+- <span class="pas-lu">(pas lu)</span> Laurence Rassel, Ce que Laurence Rassel nous fait faire, 2020
+
+- <span class="lu">(lu)</span> Maxime Favard et David-Olivier Lartigaud, MàJ Design, environnements techniques & pratiques exploratoires, sous la direction de Gwenaëlle Bertrand, 2021
+- <span class="lu">(lu)</span> Winnie Soon and Geoff Cox, Aesthetic programming, A Handbook of Software Studies, édité par Open Humanities Press, 2020
 - <span class="lu">(lu)</span> Art++, sous la direction de David-Olivier Lartigaud, Collection Script, HYX, 2011
-- <span class="lu">(lu)</span> Obfuscation, la vie privée mode d’emploi, Helen Nissembaum, Finn Brunton, C&F éditions, 2019
+- <span class="lu">(lu)</span> Helen Nissembaum, Finn Brunton, Obfuscation, la vie privée mode d’emploi, C&F éditions, 2019
 - <span class="lu">(lu)</span> Lire à l’écran, Édition B42, actes de la journée d’étude organisée par L’ESAD de Valence, 2011
-- <span class="lu">(lu)</span> Manifeste des Digital humanities, publié en 2011, MARIN DACOS https://tcp.hypotheses.org/318
-- <span class="lu">(lu)</span> MàJ Design, environnements techniques & pratiques exploratoires, sous la direction de Gwenaëlle Bertrand, Maxime Favard et David-Olivier Lartigaud, 2021
+- <span class="lu">(lu)</span> Marin Dacos, Manifeste des Digital humanities, https://tcp.hypotheses.org/318,  publié en 2011
+- <span class="lu">(lu)</span> Édouard Louis, En finir avec Eddy Bellegueule, Éditions du Seuil, 2014
+- <span class="lu">(lu)</span> Sarah Mazouz, Race, Anamosa, 2020
+
 
 ### Articles:
-- <span class="en-cours">(en cours)</span> Anthony Masure, « Makers : Fable labs ? », Strabic.fr, janvier 2013, https://www.anthonymasure.com/articles/2013-05-makers-fables-labs-chris-anderson
-- <span class="en-cours">(en cours)</span> Anthony Masure, « Visual Culture. Open Source Publishing, Git et le design graphique », Strabic.fr, novembre 2014, https://www.anthonymasure.com/articles/2014-11-visual-culture-osp-git
+- <span class="lu">(lu)</span> Anthony Masure, « Makers : Fable labs ? », Strabic.fr, janvier 2013, https://www.anthonymasure.com/articles/2013-05-makers-fables-labs-chris-anderson
+- <span class="lu">(lu)</span> Anthony Masure, « Visual Culture. Open Source Publishing, Git et le design graphique », Strabic.fr, novembre 2014, https://www.anthonymasure.com/articles/2014-11-visual-culture-osp-git
 - <span class="lu">(lu)</span> Anthony Masure, « Adobe : le créatif au pouvoir », Strabic.fr, no sur « L’usager au pouvoir », juin 2011, https://www.anthonymasure.com/articles/2011-06-adobe-creatif-pouvoir
 - <span class="lu">(lu)</span> Anthony Masure, « Le logiciel au pouvoir », note de lecture du livre de Lev Manovich Software takes command, Interfaces numériques, no 3, vol. 2, décembre 2013, https://www.anthonymasure.com/articles/2013-12-manovich-logiciel-pouvoir
 - <span class="lu">(lu)</span> Anthony Masure, Robin de Mourat, « Lev Manovich, software guru », Strabic.fr, septembre 2014, https://www.anthonymasure.com/articles/2014-11-lev-manovich-software-guru
