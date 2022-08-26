@@ -20,16 +20,21 @@
 
 
 ### \> Dossier notes de lectures
+<a class="articles" href="notes/notesDeLagasnerie_Penser.php">&#10023; Penser dans un monde mauvais, Geoffroy de Lagasnerie</a><span class="date">modifié le 26/08/2022</span> <br>
 
-<a class="articles" href="notes/notesWS.php">&#10023; Notes sur Aesthetic programming, Winnie soon, Geoff Cox </a><span class="date">modifié le 07/03/2022</span> <br>
+<a class="articles" href="notes/notesPadjemi_FeminismePopCulture.php">&#10023; Féminisme et pop culture, Jennifer Padjemi</a><span class="date">modifié le 25/08/2022</span> <br>
 
-<a class="articles" href="notes/notesLR.php">&#10023; Notes sur Legacy Russell, Glitch Feminism manifesto</a><span class="date">modifié le 16/02/2022</span> <br>
+<a class="articles" href="notes/notesFederici_Caliban.php">&#10023; Caliban et la sorcière, Silvia Federici </a><span class="date">modifié le 25/08/2022</span> <br>
 
-<a class="articles" href="notes/notesRP.php">&#10023; Notes sur Ruben Pater</a><span class="date">modifié le 25/01/2022</span> <br>
+<a class="articles" href="notes/notesWS.php">&#10023; Aesthetic programming, Winnie soon, Geoff Cox </a><span class="date">modifié le 07/03/2022</span> <br>
 
-<a class="articles" href="notes/notesAM.php">&#10023; Notes sur les articles Anthony Masure</a><span class="date">modifié le 17/01/2022</span> <br>
+<a class="articles" href="notes/notesLR.php">&#10023; Legacy Russell, Glitch Feminism manifesto</a><span class="date">modifié le 16/02/2022</span> <br>
 
-<a class="articles" href="notes/notesBS.php">&#10023; Notes sur Bernard Stiegler et Jacques Ellul</a><span class="date">modifié le 14/01/2022</span><br>
+<a class="articles" href="notes/notesRP.php">&#10023; Ruben Pater</a><span class="date">modifié le 25/01/2022</span> <br>
+
+<a class="articles" href="notes/notesAM.php">&#10023; Articles d'Anthony Masure</a><span class="date">modifié le 17/01/2022</span> <br>
+
+<a class="articles" href="notes/notesBS.php">&#10023; Bernard Stiegler et Jacques Ellul</a><span class="date">modifié le 14/01/2022</span><br>
 
 ### \> Dossier dynamiques de pouvoir
 
