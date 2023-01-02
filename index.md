@@ -5,6 +5,8 @@
 <br>
 ### \> Étapes de recherche
 
+<a class="articles" href="etapes/hackerspacestransfeministes.php">&#10023; Les hackerspaces transféministes </a><span class="date">modifié le 02/01/2022</span><br>
+
 <a class="articles" href="etapes/enonce.php">&#10023; Un premier énoncé de la recherche</a><span class="date">modifié le 23/05/2022</span><br>
 
 <a class="articles" href="etapes/rendu3.php">&#10023; Rendu numéro 03 - mai 2022</a><span class="date">modifié le 23/05/2022</span><br>
